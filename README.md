@@ -8,6 +8,13 @@ A simple grading system written in Python that takes student scores and returns 
 - Outputs letter grades (e.g., A, B, C...)
 - Simple, beginner-friendly logic
 
+  ## 📌 Sample Output
+Enter the score: 85
+A
+Enter the score: hello
+Invalid input. Please enter a numeric score
+
+
 ## 🛠️ How to Run
 1. Make sure you have Python installed.
 2. Copy if from:
