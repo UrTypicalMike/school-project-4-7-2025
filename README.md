@@ -12,7 +12,7 @@ A simple grading system written in Python that takes student scores and returns 
 -Enter the score: 85
 -A
 -Enter the score: hello
--Invalid input. Please enter a numeric score
+-Invalid input. Please enter a numeric score.
 
 
 ## 🛠️ How to Run
