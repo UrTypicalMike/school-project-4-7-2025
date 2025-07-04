@@ -10,6 +10,8 @@ A simple grading system written in Python that takes student scores and returns 
 
 ## 🛠️ How to Run
 1. Make sure you have Python installed.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/UrTypicalMike/school-project-4-7-2025.git
+2. Copy if from:
+   https://github.com/UrTypicalMike/school-project-4-7-2025/blob/main/school-project.py
+
+
+  
