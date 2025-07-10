@@ -16,4 +16,6 @@ START
       DISPLAY "F"
   ELSE IF score is not between 0 and 100
       DISPLAY "Invalid score"
+  ELSE IF score is not an integer between 0 and 100 
+      DISPLAY "Invalid input. Please enter a numeric score"
 END
